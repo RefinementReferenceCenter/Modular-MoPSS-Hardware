@@ -1,3 +1,3 @@
 # Modular-MoPSS-Hardware
 
-This repository contains the necessary files for 3D printng and to order the ModMoPSS module PCBs (eagle)
+This repository contains the necessary files for 3D printing and to order the ModMoPSS module PCBs (eagle)
