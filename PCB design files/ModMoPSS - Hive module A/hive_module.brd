@@ -204,9 +204,9 @@ v7.0</text>
 <text x="48.26" y="40.005" size="0.8128" layer="25" font="vector" ratio="17" rot="R180">SCL</text>
 <wire x1="41.91" y1="0.15875" x2="41.91" y2="14.9225" width="0.1524" layer="51" style="shortdash"/>
 <text x="74.77125" y="12.7" size="1.016" layer="51" font="vector" ratio="17" rot="R180">IR Barriers</text>
-<text x="1.11125" y="5.55625" size="0.8128" layer="25" font="vector" ratio="17">+</text>
+<text x="3.650996875" y="5.55625" size="0.8128" layer="25" font="vector" ratio="17">+</text>
 <text x="2.38125" y="5.55625" size="0.8128" layer="25" font="vector" ratio="17">G</text>
-<text x="3.65125" y="5.55625" size="0.8128" layer="25" font="vector" ratio="17">S</text>
+<text x="1.1961625" y="5.55625" size="0.8128" layer="25" font="vector" ratio="17">S</text>
 <text x="6.82625" y="18.415" size="1.27" layer="25" font="vector" ratio="17" rot="R180">Up</text>
 <text x="17.145" y="16.51" size="1.27" layer="25" font="vector" ratio="17" rot="R180">Enter</text>
 <text x="26.035" y="18.415" size="1.27" layer="25" font="vector" ratio="17" rot="R180">Down</text>
@@ -234,8 +234,8 @@ v7.0</text>
 Center positive</text>
 <text x="56.8325" y="34.44875" size="0.8128" layer="25" ratio="17">26</text>
 <text x="58.1025" y="34.44875" size="0.8128" layer="26" ratio="17" rot="MR0">26</text>
-<text x="43.02125" y="47.14875" size="0.8128" layer="25" ratio="17" rot="R180">+</text>
-<text x="46.19625" y="47.14875" size="0.8128" layer="25" ratio="17" rot="R180">GND</text>
+<text x="45.4763375" y="47.14875" size="0.8128" layer="25" ratio="17" rot="R180">+</text>
+<text x="43.910475" y="47.233409375" size="0.8128" layer="25" ratio="17" rot="R180">GND</text>
 <text x="4.28625" y="31.115" size="0.8128" layer="25" ratio="17">RTC Backup Battery (CR2032)</text>
 <text x="47.14875" y="5.3975" size="0.8128" layer="25" font="vector" ratio="17">+</text>
 <text x="45.87875" y="5.3975" size="0.8128" layer="25" font="vector" ratio="17">G</text>
